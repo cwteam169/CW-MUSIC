@@ -25,4 +25,4 @@
 </p>
 
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING)) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/WCGKING/BrandrdXMusic) </b>
