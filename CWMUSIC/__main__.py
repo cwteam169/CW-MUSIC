@@ -50,12 +50,12 @@ async def init():
         pass
     await Anony.decorators()
     LOGGER("CWMUSIC").info(
-        "DROP YOUR GIRLFRIEND'S NUMBER AND SEXY PIC TO @BRANDEDKING82 JOIN @BRANDRD_BOT , @BRANDED_WORLD FOR ANY ISSUES"
+        "DROP YOUR GIRLFRIEND'S NUMBER AND SEXY PIC TO @CW_TEAM_OWNER , @ll_CRUSH_WORLD_ll FOR ANY ISSUES"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("CWMUSIC").info("Stopping AnonX Music Bot...")
+    LOGGER("CWMUSIC").info("Stopping CWMUSIC Music Bot...")
 
 
 if __name__ == "__main__":
