@@ -1,7 +1,7 @@
 # CW-MUSIC
 
 <p align="center">
-  <img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg">
+  <img src="https://te.legra.ph/file/14b592b31ef473e1e9293.jpg">
 </p>
 
 
